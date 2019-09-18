@@ -1,5 +1,5 @@
 # EC3882 - Laboratorio de Proyectos II
-Repositorio para el Laboratorio de Proyectos II de la carrera [Tecnología Electrónica ](https://www.ie.coord.usb.ve/) de la [Unversidad Simón Bolívar](https://www.usb.ve/)
+Repositorio para el [Laboratorio de Proyectos II](http://www.ec.usb.ve/pdf/ec3xxx/ec388X_2002.pdf) de la carrera [Tecnología Electrónica ](https://www.ie.coord.usb.ve/) de la [Unversidad Simón Bolívar](https://www.usb.ve/)
 
 ## Premisas
 

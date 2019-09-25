@@ -29,7 +29,7 @@ Para el miércoles  de la semana 3 deben estar listas las siguientes actividades
    - En caso de no tener una cuenta previa, registrarse en [GitHub](https://github.com/).
    - una vez registrado solicitar acceso a este repositorio.
    - Solicitar acceso al grupo de la materia [@USB-EC3882-III-2019](https://github.com/USB-EC3882-III-2019).
-1. **Lista de clases:** Editar la tabla [Lista de integrantes](#Lista-de-integrantes) agregando un enlace a su pefil de GitHub. Se considera que el grupo 01 es el que se sienta en el mesón más cercano a la puerta. (recuerde refrescar la página antes de hacer la edición y realizar el *commit* en el menor tiempo posible).
+1. **Lista de clases:** Editar la tabla [Lista de integrantes](#Lista-de-integrantes) agregando un enlace a su pefil de GitHub. Se considera que el grupo 01 es el que se sienta en el mesón más cercano a la puerta. Recuerde refrescar la página antes de hacer la edición y realizar el *commit* en el menor tiempo posible. Verifique en el historial de este archivo si no borró ediciones de otro colaborador al realizar el *commit*.
 1. **Creación del repositorio:** Cada grupo debe crear su repositorio para la materia siguiendo la siguiente estructura: 
    * Nombre del repositorio: 'EC3882-GXX' sustituyendo XX por el número del grupo (utilizando dos dígitos). De esta forma el primer grupo tendrá el repositorio EC3882-G01 y así sucesivamente. 
    * Utilice el siguiente repositorio como plantilla [ECXXXX-GXX](https://github.com/ncertad/ECXXXX-GXX). Respete las instrucciones de la plantilla y mantenga la distribución de directorios como se indica en ella.

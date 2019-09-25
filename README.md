@@ -21,3 +21,17 @@ Otros:
 * [Fritzing](https://fritzing.org/home/)
 ## Material de Apoyo
 * ver carpeta [doc]()
+
+# Evaluaciones
+## 1era Evaluación: Anteproyecto
+1. Creación del repositorio
+  - En caso de no tener una cuenta previa, registrarse en [GitHub](https://github.com/).
+  - una vez registrado solicitar acceso a este repositorio.
+  - Solicitar acceso al grupo de la materia [@USB-EC3882-III-2019](https://github.com/USB-EC3882-III-2019).
+2. Lista de clases  
+  - Editar la tabla a continuación agregando un enlace a su pefil de GitHub:
+  * Novel Certad [@ncertad](https://github.com/ncertad) 
+ Grupo | Nombre y Apellido | Carné | perfil
+------------ | ------------- | ------------- | -------------
+00 | Novel Certad | 02-34759 | [@ncertad](https://github.com/ncertad) 
+

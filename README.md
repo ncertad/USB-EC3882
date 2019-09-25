@@ -46,6 +46,7 @@ Para el miércoles  de la semana 3 deben estar listas las siguientes actividades
 ------ | ----------------- | ----- | -------------
 00 | Novel Certad | 02-34759 | [@ncertad](https://github.com/ncertad) 
 01 | xxxxx xxxx | xx-xxxxx | xxx
-01 | xxxxx xxxx | xx-xxxxx | xxx
 02 | xxxxx xxxx | xx-xxxxx | xxx
 02 | xxxxx xxxx | xx-xxxxx | xxx
+03 | Julio Barrios | 14-10078 | xxx
+03 | Jacobo Rosales | 14-10982 | [@Jacobelmenor](https://github.com/Jacobelmenor) 

@@ -32,6 +32,6 @@ Otros:
   - Editar la tabla a continuación agregando un enlace a su pefil de GitHub:
   * Novel Certad [@ncertad](https://github.com/ncertad) 
  Grupo | Nombre y Apellido | Carné | perfil
------------- | ------------- | ------------- | -------------
+------ | ----------------- | ----- | -------------
 00 | Novel Certad | 02-34759 | [@ncertad](https://github.com/ncertad) 
 

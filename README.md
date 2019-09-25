@@ -30,7 +30,8 @@ Otros:
   - Solicitar acceso al grupo de la materia [@USB-EC3882-III-2019](https://github.com/USB-EC3882-III-2019).
 2. Lista de clases  
   - Editar la tabla a continuación agregando un enlace a su pefil de GitHub:
-  * Novel Certad [@ncertad](https://github.com/ncertad) 
+  * Novel Certad [@ncertad](https://github.com/ncertad)
+  
  Grupo | Nombre y Apellido | Carné | perfil
 ------ | ----------------- | ----- | -------------
 00 | Novel Certad | 02-34759 | [@ncertad](https://github.com/ncertad) 

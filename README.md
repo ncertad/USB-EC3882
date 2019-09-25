@@ -29,15 +29,9 @@ Para el miércoles  de la semana 3 deben estar listas las siguientes actividades
   - En caso de no tener una cuenta previa, registrarse en [GitHub](https://github.com/).
   - una vez registrado solicitar acceso a este repositorio.
   - Solicitar acceso al grupo de la materia [@USB-EC3882-III-2019](https://github.com/USB-EC3882-III-2019).
-1. **Lista de clases:** Editar la tabla a continuación agregando un enlace a su pefil de GitHub. Se considera que el grupo 01 es el que se sienta en el mesón más cercano a la puerta. (recuerde refrescar la página antes de hacer la edición y realizar el *commit* en el menor tiempo posible)
+1. **Lista de clases:** Editar la tabla [Lista de integrantes](#Lista-de-integrantes) agregando un enlace a su pefil de GitHub. Se considera que el grupo 01 es el que se sienta en el mesón más cercano a la puerta. (recuerde refrescar la página antes de hacer la edición y realizar el *commit* en el menor tiempo posible)
   
- Grupo | Nombre y Apellido | Carné | perfil
------- | ----------------- | ----- | -------------
-00 | Novel Certad | 02-34759 | [@ncertad](https://github.com/ncertad) 
-01 | xxxxx xxxx | xx-xxxxx | xxx
-01 | xxxxx xxxx | xx-xxxxx | xxx
-02 | xxxxx xxxx | xx-xxxxx | xxx
-02 | xxxxx xxxx | xx-xxxxx | xxx
+
 
 1. **Creación del repositorio:** Cada grupo debe crear su repositorio para la materia siguiendo la siguiente estructura: 
   * Nombre del repositorio: 'EC3882-GXX' sustituyendo XX por el número del grupo (utilizando dos dígitos). De esta forma el primer grupo tendrá el repositorio EC3882-G01 y así sucesivamente. 
@@ -48,3 +42,12 @@ Para el miércoles  de la semana 3 deben estar listas las siguientes actividades
   * Edite la wiki de su repositorio para agregar la información necesaria para la **1era entrega - Anteproyecto** según lo indicado en el prelaboratorio y en la presentación de la materia.
   * Cada miembro del grupo debe tener al menos 10 contribuciones en el repositorio para el momento de la evaluación.
   * Debe tener al menos un commit inicial del firmware al momento de la evaluación
+## Lista de integrantes 
+
+ Grupo | Nombre y Apellido | Carné | perfil
+------ | ----------------- | ----- | -------------
+00 | Novel Certad | 02-34759 | [@ncertad](https://github.com/ncertad) 
+01 | xxxxx xxxx | xx-xxxxx | xxx
+01 | xxxxx xxxx | xx-xxxxx | xxx
+02 | xxxxx xxxx | xx-xxxxx | xxx
+02 | xxxxx xxxx | xx-xxxxx | xxx

@@ -35,4 +35,8 @@ Otros:
  Grupo | Nombre y Apellido | Carné | perfil
 ------ | ----------------- | ----- | -------------
 00 | Novel Certad | 02-34759 | [@ncertad](https://github.com/ncertad) 
+01 | xxxxx xxxx | xx-xxxxx | xxx
+01 | xxxxx xxxx | xx-xxxxx | xxx
+02 | xxxxx xxxx | xx-xxxxx | xxx
+02 | xxxxx xxxx | xx-xxxxx | xxx
 

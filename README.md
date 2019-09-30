@@ -45,7 +45,7 @@ Para el miércoles  de la semana 3 deben estar listas las siguientes actividades
  Grupo | Nombre y Apellido | Carné | perfil
 ------ | ----------------- | ----- | -------------
 00 | Novel Certad | 02-34759 | [@ncertad](https://github.com/ncertad) 
-01 | Luis Hung | 13-10673 | .[@luishung](http://github.com/luishung)
+01 | Luis Hung | 13-10673 | [@luishung](http://github.com/luishung)
 02 | Edilson Zambrano | 13-11517 | [@edilsonmanuel](https://github.com/edilsonmanuel)
 02 | Rubén Rodríguez | 14-10936 | [@rubendr96](https://github.com/rubendr96)
 03 | Julio Barrios | 14-10078 | [@juliocbgie](https://github.com/juliocbgie) 

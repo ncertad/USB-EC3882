@@ -20,7 +20,7 @@ Otros:
 * Microsoft Excel
 * [Fritzing](https://fritzing.org/home/)
 ## Material de Apoyo
-* ver carpeta [documents]() (EN COSNTRUCCIÓN)
+* ver carpeta [documents]() (EN CONSTRUCCIÓN)
 
 ## Evaluaciones
 ### 1era Evaluación: Anteproyecto
